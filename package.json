@@ -1,18 +1,20 @@
 {
-  "name": "language-python",
-  "version": "0.18.0",
+  "name": "language-cython",
+  "version": "0.0.0",
   "engines": {
     "atom": "*",
     "node": "*"
   },
-  "description": "Python language support in Atom",
-  "homepage": "https://atom.github.io/language-python",
+  "description": "Cython language support in Atom",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-python.git"
+    "url": "https://github.com/mortenpi/atom-language-cython.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atom/language-python/issues"
+    "url": "https://github.com/mortenpi/atom-language-cython/issues"
+  },
+  "dependencies": {
+      "language-python": "*"
   }
 }

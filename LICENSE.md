@@ -1,4 +1,4 @@
-Copyright (c) 2014 GitHub Inc.
+Copyright (c) 2014 GitHub Inc., Morten Piibeleht
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -21,11 +21,5 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 --------------------------------------------------------------------
 
-This package was derived from a TextMate bundle located at
-https://github.com/textmate/python.tmbundle and distributed under the following
-license, located in `README.mdown`:
-
-Permission to copy, use, modify, sell and distribute this
-software is granted. This software is provided "as is" without
-express or implied warranty, and with no claim as to its
-suitability for any purpose.
+This package is based on the GitHub's language-python package:
+  https://github.com/atom/language-python

@@ -1,4 +1,4 @@
-'.source.python':
+'.source.cython':
   'editor':
     'foldEndPattern': '^\\s*"""\\s*$'
     'commentStart': '# '

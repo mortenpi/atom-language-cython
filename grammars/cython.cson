@@ -1,16 +1,8 @@
-'scopeName': 'source.python'
-'name': 'Python'
+'scopeName': 'source.cython'
+'name': 'Cython'
 'fileTypes': [
-  'py'
-  'rpy'
-  'pyw'
-  'cpy'
-  'SConstruct'
-  'Sconstruct'
-  'sconstruct'
-  'SConscript'
-  'gyp'
-  'gypi'
+  'pyx'
+  'pxd'
 ]
 'firstLineMatch': '^#!/.*\\bpython\\b'
 'patterns': [
